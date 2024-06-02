@@ -1,5 +1,5 @@
 This document provides an overview of the analysis functions implemented in the `Analysis` class.
-
+* Please go through the Data-Dictionary.xlsx for the split of the Data
 ### Analytics: 
 * Analysis 1: Find the number of crashes (accidents) in which number of persons killed are male?
 * Analysis 2: How many two-wheelers are booked for crashes? 
