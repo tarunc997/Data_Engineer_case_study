@@ -1,0 +1,27 @@
+INPUT_FILENAME:
+
+  Charges: temp_dir/Data/Charges_use.csv
+  Damages: temp_dir/Data/Damages_use.csv
+  Endorse: temp_dir/Data/Endorse_use.csv
+  Primary_Person: temp_dir/Data/Primary_Person_use.csv
+  Units: temp_dir/Data/Units_use.csv
+  Restrict: temp_dir/Data/Restrict_use.csv
+
+ZIP_PATH:
+  Data : Data.zip
+
+OUTPUT_PATH:
+  1: ./Output/1
+  2: ./Output/2
+  3: ./Output/3
+  4: ./Output/4
+  5: ./Output/5
+  6: ./Output/6
+  7: ./Output/7
+  8: ./Output/8
+  9: ./Output/9
+  10: ./Output/10
+
+
+FILE_FORMAT:
+  Output: csv
