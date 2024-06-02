@@ -1,5 +1,14 @@
 This document provides an overview of the analysis functions implemented in the `Analysis` class.
 
+### Analytics: 
+* Analysis 1: Find the number of crashes (accidents) in which number of persons killed are male?
+* Analysis 2: How many two-wheelers are booked for crashes? 
+* Analysis 3: Which state has the highest number of accidents in which females are involved? 
+* Analysis 4: Which are the Top 5th to 15th VEH_MAKE_IDs that contribute to a largest number of injuries including death
+* Analysis 5: For all the body styles involved in crashes, mention the top ethnic user group of each unique body style  
+* Analysis 6: Among the crashed cars, what are the Top 5 Zip Codes with the highest number crashes with alcohols as the contributing factor to a crash (Use Driver Zip Code)
+* Analysis 7: Count of Distinct Crash IDs where No Damaged Property was observed and Damage Level (VEH_DMAG_SCL~) is above 4 and car avails Insurance
+* Analysis 8: Determine the Top 5 Vehicle Makes where drivers are charged with speeding related offences, has licensed Drivers, uses top 10 used vehicle colours and has car licensed with the Top 25 states with highest number of offences (to be deduced from the data)
 ## `count_male_accidents`
 
 - **Description**: Counts the number of crashes (accidents) where the number of males killed is greater than 2.
