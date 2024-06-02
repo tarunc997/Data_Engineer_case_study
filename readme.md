@@ -18,7 +18,7 @@ This document provides an overview of the analysis functions implemented in the 
 - **Returns**: 
   - int: The count of crashes in which the number of males killed is greater than 2.
 
-## `count_2_wheeler_accidents`# Analysis Functions Overview
+## `count_2_wheeler_accidents`
 
 This document provides an overview of the analysis functions implemented in the `Analysis` class.
 
@@ -198,7 +198,7 @@ Clone the Repo and follow the below steps
 ### Considerations
 Tested on MacOS
 ### Steps:
-1. Go to the Project Directory: `$ cd DATA_ENGINEERING_CASE_STUDY`
+1. Go to the Project Directory: `$ cd Data_Engineer_case_study`
 
 2. Spark Submit
    ```commandline
